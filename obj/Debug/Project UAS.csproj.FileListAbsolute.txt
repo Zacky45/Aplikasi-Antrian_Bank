@@ -1,0 +1,24 @@
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\bin\Debug\Project UAS.exe.config
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\bin\Debug\Project UAS.exe
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\bin\Debug\Project UAS.pdb
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.Form1.resources
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.Properties.Resources.resources
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project UAS.csproj.GenerateResource.Cache
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project UAS.exe
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project UAS.pdb
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.Form2.resources
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.INPUT.resources
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.DETAIL.resources
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.SETTING.resources
+D:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project UAS.csprojResolveAssemblyReference.cache
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\bin\Debug\Project UAS.exe.config
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project UAS.exe
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project UAS.pdb
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project UAS.csprojResolveAssemblyReference.cache
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.DETAIL.resources
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.Form1.resources
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.Form2.resources
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.INPUT.resources
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.Properties.Resources.resources
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project_UAS.SETTING.resources
+E:\  \DOCUMENT\MIKROSKIL\Semester IV (Genap)\Poi Wong (OOP C#)\Project UAS\Project UAS\Project UAS\obj\Debug\Project UAS.csproj.GenerateResource.Cache
